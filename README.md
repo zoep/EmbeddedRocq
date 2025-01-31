@@ -1,7 +1,7 @@
 # Rocq on Bare Metal
 
 This directory contains preliminary experiments on running Rocq
- (formerly known as Coq) qcode on ARM embedded processors. The code is
+ (formerly known as Coq) code on ARM embedded processors. The code is
  compiled to C using the CertiCoq compiler.
 
 ## Dependencies
