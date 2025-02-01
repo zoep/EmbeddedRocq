@@ -20,7 +20,7 @@ LM3S6965 Evaluation Board (`lm3s6965evb`).
 
 ## Running the Experiments
 
-The Coq code is located in `tests.c`. To compile it and link it with
+The Coq code is located in `tests.v`. To compile it and link it with
 the necessary libraries, run:
 
 ```sh
